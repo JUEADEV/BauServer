@@ -1,0 +1,14 @@
+name: Bauserver
+version: '${project.version}'
+main: net.playnayz.bauserver.BauServer
+api-version: 1.16
+commands:
+  help:
+  fly:
+  speed:
+  warp:
+  world:
+  gm:
+  gamemode:
+  skull:
+  edit:
